@@ -1,2 +1,2 @@
 # Python-Practice
-Let's begin with Python journey
+Let's begin with Python journey.
